@@ -14,6 +14,6 @@ Three things that make me tick are elegant, simple solutions, consistent user ex
 
 Overall, I'm a candid, inquisitive, sillyheart who wants to get his hands dirty and write some kickass software.
 
-### Contact me
+## Want to get in touch?
 
 There are many methods listed below, but I am also very active on [`freenode.net`](https://webchat.freenode.net/) as `thomasem`.
